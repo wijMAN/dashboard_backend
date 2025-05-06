@@ -8,7 +8,7 @@ app.use(cors());
 app.use(express.json());
 
 mongoose.connect(
-  "mongodb+srv://wijMAN:Wijdan_98@cluster0.2zakiyf.mongodb.net/react_dashboard?retryWrites=true&w=majority"
+  "mongodb+srv://wijMAN:Wijdan_98@cluster0.14cxxql.mongodb.net/react_dashboard?retryWrites=true&w=majority"
 );
 
 // 
